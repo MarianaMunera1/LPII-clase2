@@ -1,2 +1,2 @@
 # LPII-clase2
-creando archivo por primera vez
+creando archivo por primera vez-
